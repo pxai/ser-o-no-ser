@@ -1,0 +1,1 @@
+Ser o No Ser es un juego de preguntas donde el jugador debe elegir entre un conjunto de respuestas, algunas válidas y otras falsas.
